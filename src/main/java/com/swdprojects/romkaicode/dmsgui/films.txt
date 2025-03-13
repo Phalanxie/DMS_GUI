@@ -1,0 +1,139 @@
+1233
+Rush Hour
+Two mismatched police detectives are assigned to rescue a Chinese diplomat's abducted daughter from a kidnapping.
+7.99
+1998
+60
+
+1235
+Shrek 2
+Shrek and Fiona must escape the Far Far Away Kingdom
+8.99
+2004
+120
+
+1236
+The Dark Knight
+Batman faces off against the Joker to save Gotham
+9.99
+2008
+152
+
+2236
+The White
+Man faces against the color White
+10.20
+2011
+150
+
+1102
+Dark Lake
+A scary movie where everybody dies
+3.00
+2009
+202
+
+6523
+The Formidable Man
+An action movie
+3.66
+2006
+155
+
+2333
+The Computer Documentary
+A movie about computers
+9.99
+2007
+100
+
+1245
+The Baby Man
+a man that is a baby
+9.99
+2028
+100
+
+2226
+The Lorax
+a movie about the lorax
+9.99
+2000
+15
+
+5986
+Twin Peaks
+A movie based on Twin Peaks
+9.99
+2008
+152
+
+4555
+Supercool
+a cool action movie
+9.99
+2000
+152
+
+2559
+CSI: Crime Movie
+a super corrupt police movie
+9.99
+2000
+150
+
+4485
+Pirate vs Ninja
+the greatest fight of all time
+9.99
+2000
+152
+
+6546
+Scary Movie 50
+yet another scary movie
+12
+1990
+120
+
+8812
+Final Procrastination
+a movie where a guy procrastinates on his programming homework
+9.99
+2002
+154
+
+8000
+Cyberpunk 2025
+a sci-fi movie but it's real life
+9.99
+2000
+122
+
+4555
+Yokai: japanese demons
+a thriller about ghosts
+9.99
+2000
+152
+
+4555
+Eighteen
+a crazy teenager goes on an adventure
+9.99
+2000
+150
+
+2121
+Nineteen
+sequel to Eighteen
+9.99
+2000
+152
+
+1000
+Twenty: the end
+the final part of the teen trilogy
+9.99
+2000
+120
